@@ -69,7 +69,7 @@
         <div class="col-md-4">
             <i class="fa fa-heart" aria-hidden="true"></i>
             <h3>Budaya</h3>
-            <p>Budaya Tulungagung, budaya yang sudah dikenal di berbagai kota di Indonesia diantaranya ada Ulur-Ulur, Upacara Adat Labuh Laut, Upacara Adat Jamasan Kyai Upas, Kesenian Jaranan & Barongan, dan Reog Kendang</p>
+            <p>Budaya Tulungagun, budaya yang sudah dikenal di berbagai kota di Indonesia diantaranya ada Ulur-Ulur, Upacara Adat Labuh Laut, Upacara Adat Jamasan Kyai Upas, Kesenian Jaranan & Barongan, dan Reog Kendang</p>
         </div>
 
         <div class="col-md-4">
